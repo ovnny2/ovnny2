@@ -20,10 +20,10 @@ I'm a **Web Developer**(_Java_ | _Kotlin_) and a **Web3 Blockchain**'s entusiast
 - [x] REST API's
 - [x] Functional and OOP paradigms
 
-_I currently working on **[Zup Innovation](https://www.zup.com.br/)** that is a amazing technnology brazilian's company._
+_I currently working on **[Zup Innovation](https://www.zup.com.br/)** that is a amazing technnology brazilian's company._</br>
 We create amazing and disruptive technnology around here! Come and see!!!
 
-Contribute with ***Open Source Projects**
+Contribute with ***Open Source Projects**</br>
 [Zup Open Source](https://github.com/ZupIT)
 
 
