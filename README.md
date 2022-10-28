@@ -7,8 +7,7 @@ I'm a **Web Developer**(_Java_ | _Kotlin_) and a **Web3 Blockchain**'s entusiast
 ## If you want to get in touch:
 
 - [my linkedin](https://www.linkedin.com/in/vinicius-ricardo/)
-- viniciusricardo.ferrera@gmail.com **or**
-- viniciusricardo@zup.com.br
+- viniciusricardo.ferrera@gmail.com
 
 ## Some of my knowledge:
 
